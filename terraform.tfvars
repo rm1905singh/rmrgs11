@@ -6,5 +6,9 @@ rgs = {
   rg2 = {
     name     = "rmsrgs45"
     location = "east us"
-  }
+  },
+  rg3 = {
+    name     = "rmsrgs46"
+    location = "east us"
+  },
 }
